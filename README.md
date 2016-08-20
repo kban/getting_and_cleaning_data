@@ -19,7 +19,7 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 #How to use
-1) Download "run_analysis.r" file from this repo into your local machine
-2) Download and unzip https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip file.
-3) Place "run_analysis.r" into unzipped "UCI HAR Dataset" folder
+1) Download "run_analysis.r" file from this repo into your local machine</br>
+2) Download and unzip https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip file.</br>
+3) Place "run_analysis.r" into unzipped "UCI HAR Dataset" folder</br>
 4) run R studio and load "run_analysis.r" file using command 'source("run_analysis.R")'
