@@ -18,6 +18,9 @@ Uses descriptive activity names to name the activities in the data set</br>
 Appropriately labels the data set with descriptive variable names.</br>
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+#Introduction
+This repository contains my course project for "Getting and Cleaning data" coursera course.
+
 #How to use
 <b>1)</b> Download <b>"run_analysis.r"</b> file from this repo into your local machine</br>
 <b>2)</b> Download and unzip https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip file.</br>
