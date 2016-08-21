@@ -21,6 +21,13 @@ From the data set in step 4, creates a second, independent tidy data set with th
 #Introduction
 This repository contains my course project for "Getting and Cleaning data" coursera course.
 
+#Repo content
+This repo contains 3 files:</br>
+1) Code Book.md - contains code book for rhe project</br>
+2) Readme.md - brif decription of the repo</br>
+3) run_analysis.R - course project script</br>
+4) tidydata.txt - result of execution "run_analysis.R" script - independent tidy data set with the average of each variable for each activity and each subject.</br>
+
 #How to use
 <b>1)</b> Download <b>"run_analysis.r"</b> file from this repo into your local machine</br>
 <b>2)</b> Download and unzip https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip file.</br>
