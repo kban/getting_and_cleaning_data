@@ -44,6 +44,7 @@ tBodyGyroJerkMean</br>
 
 Other estimates have been removed for the purpose of this excercise.
 
+
 The complete list of variables of each feature vector is available in 'tidydata.txt'
 
 All features are normalized and bounded within [-1,1].
